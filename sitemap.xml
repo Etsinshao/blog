@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.etsinshao.com/README.html</loc>
-    
-    <lastmod>2022-03-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.etsinshao.com/2020/09/15/scoop/scoop-2/</loc>
     
     <lastmod>2022-01-18</lastmod>
@@ -146,14 +137,14 @@
 
   
   <url>
-    <loc>http://www.etsinshao.com/tags/note/</loc>
+    <loc>http://www.etsinshao.com/tags/poetry/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.etsinshao.com/tags/poetry/</loc>
+    <loc>http://www.etsinshao.com/tags/note/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -183,14 +174,14 @@
 
   
   <url>
-    <loc>http://www.etsinshao.com/categories/Note/</loc>
+    <loc>http://www.etsinshao.com/categories/Poetry/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.etsinshao.com/categories/Poetry/</loc>
+    <loc>http://www.etsinshao.com/categories/Note/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
