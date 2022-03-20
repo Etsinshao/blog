@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.etsinshao.com/README.html</loc>
+    
+    <lastmod>2022-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.etsinshao.com/2020/09/15/scoop/scoop-2/</loc>
     
     <lastmod>2022-01-18</lastmod>
@@ -144,20 +153,6 @@
   </url>
   
   <url>
-    <loc>http://www.etsinshao.com/tags/Scoop/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.etsinshao.com/tags/Another-Tag/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.etsinshao.com/tags/poetry/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -165,7 +160,21 @@
   </url>
   
   <url>
+    <loc>http://www.etsinshao.com/tags/Scoop/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.etsinshao.com/tags/test/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.etsinshao.com/tags/Another-Tag/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -181,14 +190,14 @@
   </url>
   
   <url>
-    <loc>http://www.etsinshao.com/categories/Scoop/</loc>
+    <loc>http://www.etsinshao.com/categories/Poetry/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.etsinshao.com/categories/Poetry/</loc>
+    <loc>http://www.etsinshao.com/categories/Scoop/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
