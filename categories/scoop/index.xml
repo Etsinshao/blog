@@ -5,6 +5,7 @@
     <link>https://blog.etsinshao.com/categories/scoop/</link>
     <description>Recent content in scoop on Mr. E.&#39;s blog</description>
     <image>
+      <title>Mr. E.&#39;s blog</title>
       <url>https://blog.etsinshao.com/papermod-cover.png</url>
       <link>https://blog.etsinshao.com/papermod-cover.png</link>
     </image>
@@ -17,9 +18,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blog.etsinshao.com/posts/scoop/scoop-1/</guid>
-      <description>scoop-bucket 
-Scoop ouyangwanxi Bucket
-scoop bucket add ouyangwanxi &amp;#39;https://github.com/ouyangwanxi/my-bucket.git&amp;#39; App Manifests      Name Manifest Description License Portable     Chromium chromium-portable Portable Chromium(Browser aiming for safer, faster, and more stable way for all users to experience the web.) BSD-3-Clause YES   Google Chrome googlechrome-portable Portable Chrome(Fast, secure, and free web browser, built for the modern web.) Freeware YES   Firefox firefox-portable Portable Firefox , Can freely modify the language(Popular open source web browser.</description>
+      <description>scoop-bucket Scoop ouyangwanxi Bucket
+scoop bucket add ouyangwanxi &amp;#39;https://github.com/ouyangwanxi/my-bucket.git&amp;#39; App Manifests Name Manifest Description License Portable Chromium chromium-portable Portable Chromium(Browser aiming for safer, faster, and more stable way for all users to experience the web.) BSD-3-Clause YES Google Chrome googlechrome-portable Portable Chrome(Fast, secure, and free web browser, built for the modern web.) Freeware YES Firefox firefox-portable Portable Firefox , Can freely modify the language(Popular open source web browser.) MPL-2.0 YES Firefox ESR firefox-esr-portable Portable Firefox ESR , Can freely modify the language , One of my favorite browser(Extended Support Release of Firefox: the popular open source web browser.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ iwr -useb get.scoop.sh | iex 等到脚本执行完成Scoop就安装成功了, �
 $env:SCOOP=&amp;#39;D:\Scoop&amp;#39; [Environment]::SetEnvironmentVariable(&amp;#39;SCOOP&amp;#39;, $env:SCOOP, &amp;#39;User&amp;#39;) 对于全局程序则有（需管理员权限）
 $env:SCOOP_GLOBAL=&amp;#39;D:\GlobalScoopApps&amp;#39; [Environment]::SetEnvironmentVariable(&amp;#39;SCOOP_GLOBAL&amp;#39;, $env:SCOOP_GLOBAL, &amp;#39;Machine&amp;#39;) 安装报错 如果打开新的poewrshell窗口显示此系统上禁止运行脚本, 需要允许脚本执行.
 set-executionpolicy remotesigned -scope currentuser 设置代理 因GitHub被墙所以需设置代理才能正常使用
-scoop config proxy 127.0.0.1:1080 常用命令    Name Manifest Description     alias Manage scoop aliases    update Update apps, or Scoop itself    virustotal Look for app&amp;rsquo;s hash on virustotal.</description>
+scoop config proxy 127.0.0.1:1080 常用命令 Name Manifest Description alias Manage scoop aliases update Update apps, or Scoop itself virustotal Look for app&amp;rsquo;s hash on virustotal.com which Locate a shim/executable (similar to &amp;lsquo;which&amp;rsquo; on Linux) alias 1 1 1 1 1 1</description>
     </item>
     
   </channel>
