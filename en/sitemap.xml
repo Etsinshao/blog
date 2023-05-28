@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.etsinshao.com/en/about/</loc>
+    <loc>https://blog.etsinshao.com/home/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/about/"
+                href="https://blog.etsinshao.com/home/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/en/about/"
+                href="https://blog.etsinshao.com/home/en/about/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/en/archives/</loc>
+    <loc>https://blog.etsinshao.com/home/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/archives/"
+                href="https://blog.etsinshao.com/home/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/en/archives/"
+                href="https://blog.etsinshao.com/home/en/archives/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/en/categories/</loc>
+    <loc>https://blog.etsinshao.com/home/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/categories/"
+                href="https://blog.etsinshao.com/home/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/en/categories/"
+                href="https://blog.etsinshao.com/home/en/categories/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/en/</loc>
+    <loc>https://blog.etsinshao.com/home/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/"
+                href="https://blog.etsinshao.com/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/en/"
+                href="https://blog.etsinshao.com/home/en/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/en/search/</loc>
+    <loc>https://blog.etsinshao.com/home/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/search/"
+                href="https://blog.etsinshao.com/home/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/en/search/"
+                href="https://blog.etsinshao.com/home/en/search/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/en/series/</loc>
+    <loc>https://blog.etsinshao.com/home/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/series/"
+                href="https://blog.etsinshao.com/home/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/en/series/"
+                href="https://blog.etsinshao.com/home/en/series/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/en/tags/</loc>
+    <loc>https://blog.etsinshao.com/home/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/tags/"
+                href="https://blog.etsinshao.com/home/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/en/tags/"
+                href="https://blog.etsinshao.com/home/en/tags/"
                 />
   </url>
 </urlset>

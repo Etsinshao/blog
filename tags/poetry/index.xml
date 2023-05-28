@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>poetry on Mr. E.&#39;s blog</title>
-    <link>https://blog.etsinshao.com/tags/poetry/</link>
+    <link>https://blog.etsinshao.com/home/tags/poetry/</link>
     <description>Recent content in poetry on Mr. E.&#39;s blog</description>
     <image>
       <title>Mr. E.&#39;s blog</title>
-      <url>https://blog.etsinshao.com/papermod-cover.png</url>
-      <link>https://blog.etsinshao.com/papermod-cover.png</link>
+      <url>https://blog.etsinshao.com/home/papermod-cover.png</url>
+      <link>https://blog.etsinshao.com/home/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright 2017-2022 [Mr. E.&#39;s blog](https://blog.etsinshao.com/) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright>
-    <lastBuildDate>Sat, 20 Feb 2021 07:44:37 +0800</lastBuildDate><atom:link href="https://blog.etsinshao.com/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2021 07:44:37 +0800</lastBuildDate><atom:link href="https://blog.etsinshao.com/home/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>临江仙·梦后楼台高锁</title>
-      <link>https://blog.etsinshao.com/posts/poetry/poetry-3/</link>
+      <link>https://blog.etsinshao.com/home/posts/poetry/poetry-3/</link>
       <pubDate>Sat, 20 Feb 2021 07:44:37 +0800</pubDate>
       
-      <guid>https://blog.etsinshao.com/posts/poetry/poetry-3/</guid>
+      <guid>https://blog.etsinshao.com/home/posts/poetry/poetry-3/</guid>
       <description>临江仙·梦后楼台高锁 晏几道
 梦后楼台高锁，酒醒帘幕低垂。
 去年春恨却来时，落花人独立，微雨燕双飞。
@@ -28,10 +28,10 @@
     
     <item>
       <title>唐多令·芦叶满汀洲</title>
-      <link>https://blog.etsinshao.com/posts/poetry/poetry-2/</link>
+      <link>https://blog.etsinshao.com/home/posts/poetry/poetry-2/</link>
       <pubDate>Sat, 20 Feb 2021 05:43:14 +0800</pubDate>
       
-      <guid>https://blog.etsinshao.com/posts/poetry/poetry-2/</guid>
+      <guid>https://blog.etsinshao.com/home/posts/poetry/poetry-2/</guid>
       <description>唐多令·芦叶满汀洲 刘过
 安远楼小集，侑觞歌板之姬黄其姓者，乞词于龙洲道人，为赋此《糖多令》。同柳阜之、刘去非、石民瞻、周嘉仲、陈孟参、孟容。时八月五日也。
 芦叶满汀洲，寒沙带浅流。
@@ -44,10 +44,10 @@
     
     <item>
       <title>贺新郎·和前韵</title>
-      <link>https://blog.etsinshao.com/posts/poetry/poetry-1/</link>
+      <link>https://blog.etsinshao.com/home/posts/poetry/poetry-1/</link>
       <pubDate>Fri, 05 Feb 2021 04:25:34 +0800</pubDate>
       
-      <guid>https://blog.etsinshao.com/posts/poetry/poetry-1/</guid>
+      <guid>https://blog.etsinshao.com/home/posts/poetry/poetry-1/</guid>
       <description>贺新郎·和前韵 辛弃疾
 觅句如东野。
 想钱塘风流处士，水仙祠下。
