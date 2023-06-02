@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>scoop on Mr. E.&#39;s blog</title>
-    <link>https://blog.etsinshao.com/home/tags/scoop/</link>
+    <link>https://blog.etsinshao.com/tags/scoop/</link>
     <description>Recent content in scoop on Mr. E.&#39;s blog</description>
     <image>
       <title>Mr. E.&#39;s blog</title>
-      <url>https://blog.etsinshao.com/home/papermod-cover.png</url>
-      <link>https://blog.etsinshao.com/home/papermod-cover.png</link>
+      <url>https://blog.etsinshao.com/papermod-cover.png</url>
+      <link>https://blog.etsinshao.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>Copyright 2017-2022 [Mr. E.&#39;s blog](https://blog.etsinshao.com/) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright><atom:link href="https://blog.etsinshao.com/home/tags/scoop/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 2017-2022 [Mr. E.&#39;s blog](https://blog.etsinshao.com/) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).</copyright><atom:link href="https://blog.etsinshao.com/tags/scoop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My scoop bucket</title>
-      <link>https://blog.etsinshao.com/home/posts/scoop/scoop-1/</link>
+      <link>https://blog.etsinshao.com/posts/scoop/scoop-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.etsinshao.com/home/posts/scoop/scoop-1/</guid>
+      <guid>https://blog.etsinshao.com/posts/scoop/scoop-1/</guid>
       <description>scoop-bucket Scoop ouyangwanxi Bucket
 scoop bucket add ouyangwanxi &amp;#39;https://github.com/ouyangwanxi/my-bucket.git&amp;#39; App Manifests Name Manifest Description License Portable Chromium chromium-portable Portable Chromium(Browser aiming for safer, faster, and more stable way for all users to experience the web.) BSD-3-Clause YES Google Chrome googlechrome-portable Portable Chrome(Fast, secure, and free web browser, built for the modern web.) Freeware YES Firefox firefox-portable Portable Firefox , Can freely modify the language(Popular open source web browser.) MPL-2.0 YES Firefox ESR firefox-esr-portable Portable Firefox ESR , Can freely modify the language , One of my favorite browser(Extended Support Release of Firefox: the popular open source web browser.</description>
     </item>
     
     <item>
       <title>Scoop</title>
-      <link>https://blog.etsinshao.com/home/posts/scoop/scoop-2/</link>
+      <link>https://blog.etsinshao.com/posts/scoop/scoop-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.etsinshao.com/home/posts/scoop/scoop-2/</guid>
+      <guid>https://blog.etsinshao.com/posts/scoop/scoop-2/</guid>
       <description>网站 Scoop
 安装 安装前的准备 Invoke-Expression (New-Object System.Net.WebClient).DownloadString(&amp;#39;https://get.scoop.sh&amp;#39;) 或者
 iwr -useb get.scoop.sh | iex 等到脚本执行完成Scoop就安装成功了, 使用scoop help就可以查看scoop的常用命令, 当然, 是英文版的.

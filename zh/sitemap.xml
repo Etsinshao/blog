@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.etsinshao.com/home/categories/</loc>
+    <loc>https://blog.etsinshao.com/categories/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/home/en/categories/"
+                href="https://blog.etsinshao.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/home/categories/"
+                href="https://blog.etsinshao.com/categories/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/home/</loc>
+    <loc>https://blog.etsinshao.com/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/home/en/"
+                href="https://blog.etsinshao.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/home/"
+                href="https://blog.etsinshao.com/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/home/tags/note/</loc>
+    <loc>https://blog.etsinshao.com/tags/note/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/categories/note/</loc>
+    <loc>https://blog.etsinshao.com/categories/note/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/tags/poetry/</loc>
+    <loc>https://blog.etsinshao.com/tags/poetry/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/categories/poetry/</loc>
+    <loc>https://blog.etsinshao.com/categories/poetry/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/posts/</loc>
+    <loc>https://blog.etsinshao.com/posts/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/tags/</loc>
+    <loc>https://blog.etsinshao.com/tags/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/home/en/tags/"
+                href="https://blog.etsinshao.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/home/tags/"
+                href="https://blog.etsinshao.com/tags/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/home/posts/poetry/poetry-3/</loc>
+    <loc>https://blog.etsinshao.com/posts/poetry/poetry-3/</loc>
     <lastmod>2021-02-20T07:44:37+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/posts/poetry/poetry-2/</loc>
+    <loc>https://blog.etsinshao.com/posts/poetry/poetry-2/</loc>
     <lastmod>2021-02-20T05:43:14+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/posts/poetry/poetry-1/</loc>
+    <loc>https://blog.etsinshao.com/posts/poetry/poetry-1/</loc>
     <lastmod>2021-02-05T04:25:34+08:00</lastmod>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/about/</loc>
+    <loc>https://blog.etsinshao.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/home/en/about/"
+                href="https://blog.etsinshao.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/home/about/"
+                href="https://blog.etsinshao.com/about/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/home/archives/</loc>
+    <loc>https://blog.etsinshao.com/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/home/en/archives/"
+                href="https://blog.etsinshao.com/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/home/archives/"
+                href="https://blog.etsinshao.com/archives/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/home/posts/scoop/scoop-1/</loc>
+    <loc>https://blog.etsinshao.com/posts/scoop/scoop-1/</loc>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/tags/scoop/</loc>
+    <loc>https://blog.etsinshao.com/tags/scoop/</loc>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/categories/scoop/</loc>
+    <loc>https://blog.etsinshao.com/categories/scoop/</loc>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/posts/scoop/scoop-2/</loc>
+    <loc>https://blog.etsinshao.com/posts/scoop/scoop-2/</loc>
   </url><url>
-    <loc>https://blog.etsinshao.com/home/search/</loc>
+    <loc>https://blog.etsinshao.com/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/home/en/search/"
+                href="https://blog.etsinshao.com/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/home/search/"
+                href="https://blog.etsinshao.com/search/"
                 />
   </url><url>
-    <loc>https://blog.etsinshao.com/home/series/</loc>
+    <loc>https://blog.etsinshao.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.etsinshao.com/home/en/series/"
+                href="https://blog.etsinshao.com/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.etsinshao.com/home/series/"
+                href="https://blog.etsinshao.com/series/"
                 />
   </url>
 </urlset>
